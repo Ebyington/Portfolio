@@ -1,2 +1,49 @@
-# Portfolio
-A web app designed to house all of my coding work in one convenient location
+
+     Eric's Portfolio
+
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Description
+
+This is a website to showcase all of my coding projects in one convenient location
+
+## Table of Contents
+
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [Contributors](#Contributors)
+- [License](#License)
+- [Tests](#Tests)
+- [Questions](#Questions)
+
+## Installation
+
+deployed to github pages, run live server on html
+
+## Usage
+
+N/A
+
+## Contributors
+
+Eric Byington
+
+## License
+
+Refer to badge link for license information
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Tests
+
+N/A
+
+## Questions
+
+Contact me with any questions
+
+Ebyington,
+ericbyington33@gmail.com
+
+
